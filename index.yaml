@@ -3,7 +3,7 @@ entries:
   debug-box:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-28T13:24:04.383391+02:00"
+    created: "2025-05-28T13:26:48.992142+02:00"
     description: A Helm chart for Kubernetes
     digest: f21b53b92930ab77c0a18a321bb82915749098dcc9c1b6b1a88df314d534ed9c
     name: debug-box
@@ -11,24 +11,4 @@ entries:
     urls:
     - https://alienbrainfarm.github.io/helm/debug-box-0.3.0.tgz
     version: 0.3.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2025-05-28T13:24:04.37652+02:00"
-    description: A Helm chart for Kubernetes
-    digest: 9f15d8dd57eeae3a757ed02d3294291b2e6a13a5f559c65960815bdcb5322d75
-    name: debug-box
-    type: application
-    urls:
-    - https://alienbrainfarm.github.io/helm/debug-box-0.2.0.tgz
-    version: 0.2.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2025-05-28T13:24:04.376371+02:00"
-    description: A Helm chart for Kubernetes
-    digest: d5bbd902892fd1a7bb0d72f00d42222ae220dcd84ced8465fdcb9d506986c771
-    name: debug-box
-    type: application
-    urls:
-    - https://alienbrainfarm.github.io/helm/debug-box-0.1.0.tgz
-    version: 0.1.0
-generated: "2025-05-28T13:24:04.376077+02:00"
+generated: "2025-05-28T13:26:48.991863+02:00"
